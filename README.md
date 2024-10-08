@@ -1,3 +1,4 @@
 # Myfirstrepo
-## Header 1
 First repo made for bootcamp
+--
+© Kidest D Getahun 2024 and beyond
